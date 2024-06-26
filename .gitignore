@@ -1,8 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,jupyternotebooks
 
-data/test/
-data/train/
+data/melanoma-cancer/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
